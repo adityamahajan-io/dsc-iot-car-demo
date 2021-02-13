@@ -1,0 +1,30 @@
+.col-4{
+    align-content: center;
+    text-align: center;
+    height: 70px;
+    width: 50px;
+}
+
+.arrowBtn{
+    background-color: blue;
+    color: white;
+    width: 80px;
+}
+
+.btn:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.onOFF .row{
+    height: 100px;
+}
+
+.onOFF .col{
+    height: 100px;
+}
+
+.onOFF .btn{
+    height: 100px;
+    color: white;
+}
